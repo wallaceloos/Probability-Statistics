@@ -2,4 +2,8 @@
 
 ### Discrete probability distribution
 
-1 - Binomial probability (binomial_distribution.r)
+1 - Binomial distribution (binomial_distribution.r)
+
+### Continuous probability distribution
+
+1 - Normal distribution (binomial_distribution.r)
