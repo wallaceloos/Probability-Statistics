@@ -6,4 +6,4 @@
 
 ### Continuous probability distribution
 
-1 - Normal distribution (binomial_distribution.r)
+1 - Normal distribution (normal_distribution.r)
