@@ -10,5 +10,5 @@
 
 ### Cumulative probabilities functions
 
-1 - Binomial   
-2 - Normal
+1 - Binomial (cumulative_binomial_distribution.r)   
+2 - Normal (cumulative_normal_distribution.r)
